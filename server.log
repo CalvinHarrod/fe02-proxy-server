@@ -1,0 +1,65 @@
+2024-02-27T03:59:09.768Z - Server running on port 7777
+2/27/2024, 12:00:32 PM - Server running on port 7777
+2/27/2024, 12:02:17 PM - Server running on port 7777
+20240227 12:3:28 - Server running on port 7777
+20240227 12:06:43 - Server running on port 7777
+20240227 12:11:05 - Received a request to /validate with body:
+20240227 12:11:05 - Issued a token:
+20240227 12:11:05 - Received a request to /validate-token with token:
+20240227 12:11:05 - Token is valid
+20240227 12:12:33 - Received a request to /validate with body:
+20240227 12:12:33 - Issued a token:
+20240227 12:13:28 - Received a request to /validate with body:
+20240227 12:13:28 - Issued a token:
+20240227 12:13:28 - Received a request to /validate-token with token:
+20240227 12:13:28 - Token is valid
+20240227 12:16:40 - Received a request to /validate with body:
+20240227 12:16:40 - Issued a token:
+20240227 12:16:40 - Received a request to /validate-token with token:
+20240227 12:16:40 - Token is valid
+20240227 12:17:36 - Received a request to /validate with body:
+20240227 12:17:36 - Issued a token:
+20240227 12:17:36 - Received a request to /validate-token with token:
+20240227 12:17:36 - Token is valid
+20240227 12:18:48 - Received a request to /validate with body:
+20240227 12:18:48 - Issued a token:
+20240227 12:18:48 - Received a request to /validate-token with token:
+20240227 12:18:48 - Token is valid
+20240227 12:20:01 - Received a request to /validate-token with token:
+20240227 12:20:01 - Token is valid
+20240227 12:20:01 - Received a request to /validate with body:
+20240227 12:20:01 - Issued a token:
+20240227 18:02:16 - Received a request to /validate with body:
+20240227 18:02:16 - Issued a token:
+20240227 18:02:16 - Received a request to /validate-token with token:
+20240227 18:02:16 - Token is invalid:
+20240227 18:03:04 - Token is invalid:
+20240227 18:03:04 - Received a request to /validate-token with token:
+20240227 18:03:04 - Received a request to /validate with body:
+20240227 18:03:04 - Issued a token:
+20240228 15:40:24 - Server running on port 7777
+20240228 15:53:59 - Server running on port 7777
+20240228 16:34:12 - Incoming URL: undefined
+20240228 16:52:29 - Server running on port 7777
+20240228 16:59:05 - Incoming URL: undefined
+20240228 17:07:56 - Server running on port 7777
+20240228 17:08:14 - Incoming URL: http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378
+20240228 17:08:14 - Parsed URL: {"protocol":"http","slashes":true,"auth":null,"host":"192.168.42.11:8080","port":"8080","hostname":"192.168.42.11","hash":null,"search":"?mobile=92788378","query":"mobile=92788378","pathname":"/eform-application/ajax/checkMobile","path":"/eform-application/ajax/checkMobile?mobile=92788378","href":"http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378"}
+20240228 17:08:14 - Redirect URL: http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378
+20240228 17:15:22 - Incoming URL: http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378
+20240228 17:15:22 - Parsed URL: {"protocol":"http","slashes":true,"auth":null,"host":"192.168.42.11:8080","port":"8080","hostname":"192.168.42.11","hash":null,"search":"?mobile=92788378","query":"mobile=92788378","pathname":"/eform-application/ajax/checkMobile","path":"/eform-application/ajax/checkMobile?mobile=92788378","href":"http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378"}
+20240228 17:15:22 - Redirect URL: http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378
+20240228 17:25:06 - Server running on port 7777
+20240228 17:27:37 - Incoming URL: http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378
+20240228 17:27:37 - Parsed URL: {"protocol":"http","slashes":true,"auth":null,"host":"192.168.42.11:8080","port":"8080","hostname":"192.168.42.11","hash":null,"search":"?mobile=92788378","query":"mobile=92788378","pathname":"/eform-application/ajax/checkMobile","path":"/eform-application/ajax/checkMobile?mobile=92788378","href":"http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378"}
+20240228 17:27:37 - Redirect URL: http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378
+20240228 17:27:52 - Incoming URL: http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378
+20240228 17:27:52 - Parsed URL: {"protocol":"http","slashes":true,"auth":null,"host":"192.168.42.11:8080","port":"8080","hostname":"192.168.42.11","hash":null,"search":"?mobile=92788378","query":"mobile=92788378","pathname":"/eform-application/ajax/checkMobile","path":"/eform-application/ajax/checkMobile?mobile=92788378","href":"http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378"}
+20240228 17:27:52 - Redirect URL: http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378
+20240228 17:28:08 - Incoming URL: http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378
+20240228 17:28:08 - Redirect URL: http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378
+20240228 17:28:08 - Parsed URL: {"protocol":"http","slashes":true,"auth":null,"host":"192.168.42.11:8080","port":"8080","hostname":"192.168.42.11","hash":null,"search":"?mobile=92788378","query":"mobile=92788378","pathname":"/eform-application/ajax/checkMobile","path":"/eform-application/ajax/checkMobile?mobile=92788378","href":"http://192.168.42.11:8080/eform-application/ajax/checkMobile?mobile=92788378"}
+20240229 11:35:48 - Server running on port 7777
+20240229 11:36:10 - Server running on port 7777
+02/29/2024, 14:04:56 - Server running on port 7777
+02/29/2024, 14:08:35 - Server running on port 7777
